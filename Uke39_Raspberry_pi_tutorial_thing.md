@@ -23,6 +23,10 @@
 ```
 3. click on "next" > "yes" > then wait for it to be done with writing and verifying.
 4. Afterwards click on "Continue" and take out the mini sd card and insert it into your raspberry pi.
+5. Turn on your raspberry pi and wait for it to turn on. a system configuration window will pop up automatically.
+6. In systen configuration > Choose your language > Keyboard language > Connect to your wifi > Click on your location.
+    Fill in your name, computers name, username, password and confirm password
+7. Wait for ubuntu to configure.
 ```
 
 

@@ -1,7 +1,12 @@
 ## Raspberry pi setup
 
 ### - Installere ssh
-
+```
+1. Open CMD/Terminal
+2. Type "sudo apt install openssh-server" and press enter
+3. Type "sudo systemctl enable ssh" and press enter
+4. Type "sudo systemctl start ssh" and press enter
+```
 
 ### - Sende filer
 
@@ -29,6 +34,8 @@
 7. Wait for ubuntu to configure.
 ```
 
-
-
 ### - Installere mariadb
+```
+1. Open CMD/Terminal.
+2. Type "sudo apt install mariadb"
+```
